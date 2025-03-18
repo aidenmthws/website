@@ -1,0 +1,161 @@
+{
+  "company": {
+    "name": "Aiden's Personal Website",
+    "logo": "/assets/images/logo.png"
+  },
+  "navigation": [
+    {
+      "name": "Skills",
+      "href": "features"
+    }
+  ],
+  "callToAction": {
+    "text": "Call to action ",
+    "href": "https://www.solacecharities.org/"
+  },
+  "mainHero": {
+  "title": "Hi my name is",
+  "subtitle": "Aiden Mathews",
+  "description": "I'm a CS student at VT, which basically means I spend a lot of time staring at a screen and occasionally remembering to eat. But hey, I'm genuinely passionate about software, cybersecurity (because who doesn't want to be a hacker, ethically speaking?), and AI. I'm always looking for cool projects to dive into, even if it means sacrificing sleep. If you're into building stuff and don't mind a few coding-induced coffee jitters, let's connect!",
+  "img": "/assets/images/happyTeam.jpeg",
+  "primaryAction": {
+    "text": "Resume",
+    "href": "/assets/Aiden Mathews Resume.docx (3).pdf"
+  },
+  "secondaryAction": {
+    "text": "Contact Me",
+    "href": "mailto:aidenmathews@vt.edu?subject=Hello!"
+  }
+},
+
+  "product": {
+    "title": "React landing page 2021",
+    "items": [
+      {
+        "title": "A plug n play template",
+        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
+        "img": "/assets/images/product1.jpg"
+      },
+      {
+        "title": "Make it your own!",
+        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
+        "img": "/assets/images/product2.jpg"
+      }
+    ]
+  },
+  "features": {
+    "title": "Skills",
+    "subtitle": "All the best technologies out there!",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "items": [
+      {
+        "name": "HTML",
+        "description": "",
+        "icon": "/assets/images/html.png"
+      },
+      {
+        "name": "Python",
+        "description": "",
+        "icon": "/assets/images/python.png"
+      },
+      {
+        "name": "CSS",
+        "description": "",
+        "icon": "/assets/images/css.png"
+      },
+      {
+        "name": "Java",
+        "description": "",
+        "icon": "/assets/images/java.png"
+      },
+      {
+        "name": "React",
+        "description": "",
+        "icon": "/assets/images/react.png"
+      },
+      {
+        "name": "C",
+        "description": "",
+        "icon": "/assets/images/c2.webp"
+      },
+      {
+        "name": "Next",
+        "description": "",
+        "icon": "/assets/images/nextjs.svg"
+      },
+      {
+        "name": "Firebase",
+        "description": "",
+        "icon": "/assets/images/firebase.png"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Pricing",
+    "items": [
+      {
+        "name": "Free",
+        "price": "$0",
+        "priceDetails": "for one user",
+        "features": [
+          "1 user",
+          "Basic Support",
+          "1 GB of storage",
+          "Email support"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": "$15",
+        "priceDetails": "per user",
+
+        "features": [
+          "5 users",
+          "Priority Support",
+          "10 GB of storage",
+          "Phone and Email support"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": "$29",
+        "priceDetails": "per user",
+        "features": [
+          "50 users",
+          "24/7 Support",
+          "100 GB of storage",
+          "Phone and Email support"
+        ]
+      }
+    ]
+  },
+  "about": {
+    "sections": [
+      {
+        "name": "",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      }
+    ],
+    "socialMedia": {
+      "github": "https://github.com/aidenmthws",
+      "twitter": "",
+      "linkedin": "https://www.linkedin.com/in/aiden-mathews/"
+    }
+  }
+}
