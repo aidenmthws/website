@@ -16,7 +16,7 @@
   "mainHero": {
   "title": "Hi my name is",
   "subtitle": "Aiden Mathews",
-  "description": "I'm a CS student at VT, which basically means I spend a lot of time staring at a screen and occasionally remembering to eat. But hey, I'm genuinely passionate about software, cybersecurity (because who doesn't want to be a hacker, ethically speaking?), and AI. I'm always looking for cool projects to dive into, even if it means sacrificing sleep. If you're into building stuff and don't mind a few coding-induced coffee jitters, let's connect!",
+  "description": "I'm a Computer Science student at Virginia Tech with a genuine passion for software development, cybersecurity (with an ethical focus), and artificial intelligence. I dedicate significant time to my studies and technical pursuits, often becoming deeply engaged in my work. I'm continuously seeking challenging projects to expand my skills, even when they require extra commitment. If you share an interest in building innovative solutions and have a similar dedication to technology, I'd welcome the opportunity to connect!",
   "img": "/assets/images/happyTeam.jpeg",
   "primaryAction": {
     "text": "Resume",
