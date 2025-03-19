@@ -17,7 +17,7 @@ const MainHero = () => {
             <span className="wave">👋🏽</span>
           </span>
         </h1>
-        <p className="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg md:mt-5 md:text-xl lg:max-w-none xl:max-w-none">
+        <p className="mt-6 text-base text-gray-600 sm:text-lg md:text-xl leading-relaxed md:max-w-3xl lg:max-w-4xl xl:max-w-5xl">
           {mainHero.description}
         </p>
         <div className="mt-5 sm:mt-8 flex flex-wrap">
@@ -34,7 +34,7 @@ const MainHero = () => {
           <div className="mt-3 sm:mt-0 sm:ml-3">
             <a
               href={mainHero.secondaryAction.href}
-              className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md border-primary text-secondary bg-background hover:bg-border hover:text-primary hover:border-primary md:py-4 md:text-lg md:px-10"
+              className="w-full flex items-center justify-center px-8 py-3 border border-gray-300 text-base font-medium rounded-md text-secondary bg-white hover:bg-gray-50 hover:text-primary hover:border-primary transition-all duration-300 ease-in-out md:py-4 md:text-lg md:px-10"
             >
               {mainHero.secondaryAction.text}
             </a>
