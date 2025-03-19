@@ -17,7 +17,7 @@
   "title": "Hi my name is",
   "subtitle": "Aiden Mathews",
   "description": "Hi there! I'm a CS student at Virginia Tech passionate about tech. I love software development, ethical cybersecurity, and AI. I'm always seeking challenging projects that push my boundaries, even when they require late-night coding sessions. If you're equally excited about building cool tech solutions and committed to creating something amazing, let's connect and collaborate!",
-  "img": "/assets/images/happyTeam.jpeg",
+  "img": "/assets/images/hero.jpg",
   "primaryAction": {
     "text": "Resume",
     "href": "/assets/Aiden Mathews Resume.docx (3).pdf"
@@ -25,7 +25,15 @@
   "secondaryAction": {
     "text": "Contact Me",
     "href": "mailto:aidenmathews@vt.edu?subject=Hello!"
-  }
+  },
+  "projects": [
+    {
+      "title": "Ethical Cybersecurity Tool",
+      "description": "A penetration testing framework with built-in ethical guidelines",
+      "img": "/assets/images/project1.jpg",
+      "link": "/projects/cybersecurity-tool"
+    }
+  ]
 },
 
   "product": {
