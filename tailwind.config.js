@@ -21,7 +21,7 @@ module.exports = {
         secondary: '#2c4ba1', // Deep blue for secondary elements
         tertiary: '#bfd4f2', // Light blue/gray for accents
         border: '#1e3a8a', // Darker blue for borders
-        background: '#f0f9ff', // Soft blue-white for the background
+        background: '#d6edff', // Soft blue-white for the background
       },
       animation: {
         vote: 'vote 1s ease-in-out',
