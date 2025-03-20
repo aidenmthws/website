@@ -7,6 +7,8 @@ import Features from '../components/Features';
 import Header from '../components/Header';
 import LazyShow from '../components/LazyShow';
 import MainHero from '../components/MainHero';
+import MainHeroImage from '../components/MainHeroImage';
+
 
 const App = () => {
   return (
@@ -20,6 +22,7 @@ const App = () => {
             <MainHero />
           </div>
         </div>
+        <MainHeroImage />
       </div>
       <Canvas />
       <LazyShow>
