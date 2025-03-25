@@ -1,7 +1,7 @@
 import React from 'react';
 
 import About from '../components/About';
-import Analytics from '../components/Analytics';
+import { Analytics } from "@vercel/analytics/react"
 import Canvas from '../components/Canvas';
 import Features from '../components/Features';
 import Header from '../components/Header';
